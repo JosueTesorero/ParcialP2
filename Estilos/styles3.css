@@ -75,12 +75,12 @@ hr{
       }
 
 .hob{
-    list-style-image: url("imagenes/reloj2.png"); 
+    list-style-image: url("Imagenes/reloj2.png"); 
     text-shadow: #033a58;
     text-size-adjust: center;
 }
 .musica{
-    list-style-image: url("imagenes/music.png");  
+    list-style-image: url("Imagenes/music.png");  
 }
 
 h6{
