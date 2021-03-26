@@ -1,0 +1,160 @@
+
+h1{
+    position: relative;
+    font-family: 'Rancho', cursive;;
+    color: #FFFFFF;
+    font-size: 300%;
+    text-align: center;
+    margin: 50px 50px 8px 5px;
+    }
+    
+ 
+h5{
+    position: relative;
+    font-family: 'Rancho', cursive;;
+    color: #033a58;
+    font-size: 300%;
+    text-align: center;
+    margin: 50px 50px 1px 5px;
+    }   
+
+ol{
+        font-family: 'Noto Sans', sans-serif;
+ }
+    
+li{
+      text-align: justify;
+      color: white;
+      font-family: 'Noto Sans', sans-serif;
+      line-height: 2.5;
+      list-style-position: inside;
+}
+hr{
+    border: solid #006194 10px;
+    border-bottom: none;
+    width: 100%;
+    margin: 5px auto;
+} 
+
+.hr1{
+    border: solid #006194 8px;
+    border-bottom: none;
+    width: 100%;
+    margin: 5px auto;
+} 
+
+.hr2{
+    border: solid #006194 6px;
+    border-bottom: none;
+    width: 100%;
+    margin: 5px auto;
+} 
+
+.hr3{
+    border: solid #006194 4px;
+    border-bottom: none;
+    width: 100%;
+    margin: 5px auto;
+} 
+
+.hr4{
+    border: solid #006194 2px;
+    border-bottom: none;
+    width: 100%;
+    margin: 5px auto;
+} 
+
+
+    .pelis {
+        list-style-image: url("/Imagenes/pelis.png"); 
+      }
+
+      .centrooo {
+        text-align: left;
+   text-orientation: initial;
+      }
+
+.hob{
+    list-style-image: url("/Imagenes/reloj2.png"); 
+    text-shadow: #033a58;
+    text-size-adjust: center;
+}
+.musica{
+    list-style-image: url("/Imagenes/MUSIC.png");  
+}
+
+h6{
+    font-size: 20px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family:'Noto Sans', sans-serif;
+    text-align: center; 
+    margin: 50px 50px 10px 5px;
+}
+
+h4{
+    position: relative;
+    font-family: 'Rancho', cursive;;
+    color: #FFFFFF;
+    font-size: 150%;
+    text-align: center;
+    text-decoration: none;
+    }
+
+u{
+    font-weight: 900;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    font-stretch: extra-condensed;
+    text-decoration: none;
+}
+
+i{
+        font-weight: 650;
+        font-style: italic;
+ }
+        
+
+
+
+
+.partearriba{
+    background-color: #006194;
+   position: relative;
+    padding-top: 10px;
+}
+
+
+
+.parteabajo{
+    background-color: white;
+    position: relative;
+    padding-top: 10px;
+}
+
+
+
+
+a {
+    color: #004f80;
+    margin: 4px 4px;   
+    text-size-adjust: 10px;
+}
+
+a:hover {
+color: #0f88d3;
+}
+
+a:link, a:visited, a:focus {
+    background: white;
+  }
+  
+  a:hover {
+    background: white;
+  }
+  
+  a:active {
+    background:white;
+    color: #006194;
+  }

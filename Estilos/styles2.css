@@ -1,0 +1,92 @@
+h1{
+    position: relative;
+    font-family: 'Rancho', cursive;
+    color: #004F80;
+    font-size: 400%;
+    text-align: center;
+    margin: 20px 300px 50px 300px;
+    }
+
+    h2{
+        
+        font-family: 'Rancho', cursive;;
+        color: #004F80;
+        font-size: 200%;
+        text-align: left;
+        font-style: unset;
+        margin: 50px 100px 1px 370px;
+    }
+    h4{
+        position: relative;
+        font-family: 'Rancho', cursive;;
+        color: #FFFFFF;
+        font-size: 150%;
+        text-align: center;
+        text-decoration: none;
+        }
+           
+
+.programas{
+    position: absolute;
+    width: 70%;
+    left: 250px;
+
+}
+ table {
+        table-layout: fixed;
+        width: 100%;
+        border: 10px  solid #004F80;
+        border-spacing: 5px 10px;
+        border-collapse: separate;
+        border-style: double; 
+      }
+
+th{
+    
+    color: #004F80; 
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    border-spacing: 10px 5px;
+    border-collapse: collapse;
+  
+}
+
+td{
+    color: #006194; 
+    font-family: 'Noto Sans', sans-serif;
+    border-spacing: 10px 5px;
+    border-collapse:separate;
+}
+
+
+.nivel{
+    text-align: center;
+}
+b{
+    font-weight: 900;
+    font-size: 20px;
+    font-style: normal;
+    font-stretch: extra-condensed;
+    }
+
+a {
+        color: #004f80;
+        margin: 4px 4px;   
+ }
+    
+ a:hover {
+    color: #0f88d3;
+}
+    
+    a:link, a:visited, a:focus {
+        background: white;
+      }
+      
+      a:hover {
+        background: white;
+      }
+      
+      a:active {
+        background:white;
+        color: #006194;
+      }
